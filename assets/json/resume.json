@@ -86,19 +86,16 @@
   "publications": [
     {
       "name": "MARCO: An Experimental High-Performance Compiler forLarge-Scale Modelica Models",
-      "publisher": "Dirk Müller, Antonello Monti, and Andrea Benigni",
       "releaseDate": "2023-12-22",
       "url": "https://doi.org/10.3384/ecp204"
     },
     {
       "name": "Clever DAE: Compiler Optimizations for Digital Twins at Scale",
-      "publisher": "Association for Computing Machinery",
       "releaseDate": "2023-08-04",
       "url": "https://dl.acm.org/doi/10.1145/3587135.3589945"
     },
     {
       "name": "Efficient Memory Management for Modelica Simulations",
-      "publisher": "Schloss Dagstuhl",
       "releaseDate": "2022-06-22",
       "url": "https://doi.org/10.4230/OASIcs.PARMA-DITAM.2022.7"
     }
