@@ -45,7 +45,7 @@
       "startDate": "2022-11-02",
       "endDate": "Current",
       "score": "109",
-      "courses": ["Design and implementation of a Modelica compiler with MLIR and LLVM"]
+      "courses": ["Compilation technologies for modeling languages"]
     },
     {
       "institution": "Politecnico di Milano",
