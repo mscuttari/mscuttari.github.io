@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<div class="teaching">
+
 <h3 class="mt-4">Politecnico di Milano</h3>
 
 <div class="card mt-3">
@@ -47,4 +49,6 @@ nav_order: 6
       </li>
     </ul>
   </div>
+</div>
+
 </div>
