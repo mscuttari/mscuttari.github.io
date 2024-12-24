@@ -7,7 +7,8 @@
   author={Scuttari, Michele and Camillucci, Nicola and Cattaneo, Daniele and Agosta, Giovanni and Casella, Francesco and Cherubin, Stefano and Terraneo, Federico},
   booktitle={Proceedings of the 20th ACM International Conference on Computing Frontiers},
   pages={344--350},
-  year={2023}
+  year={2023},
+  abstract={Modeling and simulation are fundamental activities in engineering to facilitate prototyping, verification and maintenance. Declarative modeling languages allow to simulate physical phenomena by expressing them in terms of Differential and Algebraic Equations (DAE) systems. In this paper, we focus on the problem of generating code for performing the numerical integration of the model equations, and in particular on the overhead introduced by external numerical solver libraries. We propose a novel methodology for minimizing the amount of equations which require to be solved through an external solver library, together with the number of computations that are required to computed the Jacobian matrix of the system. Through a prototype LLVM-based compiler, we demonstrate how this approach achieves a linear speed-up in simulation time with respect to the baseline.}
 }
 
 @inproceedings{scuttari2022efficient,
@@ -16,5 +17,6 @@
   author={Scuttari, Michele and Camillucci, Nicola and Cattaneo, Daniele and Terraneo, Federico and Agosta, Giovanni},
   booktitle={13th Workshop on Parallel Programming and Run-Time Management Techniques for Many-Core Architectures and 11th Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms (PARMA-DITAM 2022)},
   year={2022},
-  organization={Schloss Dagstuhl-Leibniz-Zentrum f{\"u}r Informatik}
+  organization={Schloss Dagstuhl-Leibniz-Zentrum f{\"u}r Informatik},
+  abstract={The ever increasing usage of simulations in order to produce digital twins of physical systems led to the creation of specialized equation-based modeling languages such as Modelica. However, compilers of such languages often generate code that exploits the garbage collection memory management paradigm, which introduces significant runtime overhead. In this paper we explain how to improve the memory management approach of the automatically generated simulation code. This is achieved by addressing two different aspects. One regards the reduction of the heap memory usage, which is obtained by modifying functions whose resulting arrays could instead be allocated on the stack by the caller. The other aspect regards the possibility of avoiding garbage collection altogether by performing all memory lifetime tracking statically. We implement our approach in a prototype Modelica compiler, achieving an improvement of the memory management overhead of over 10 times compared to a garbage collected solution, and an improvement of 56 times compared to the production-grade compiler OpenModelica.}
 }
