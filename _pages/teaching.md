@@ -31,7 +31,7 @@ nav_order: 6
             	Esercitazioni
           </div>
           <div class="col-sm-3">
-            <a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slide</a>
+            <a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a> 
             <a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
           </div>
         </div>
@@ -42,7 +42,7 @@ nav_order: 6
             	Laboratori
           </div>
           <div class="col-sm-3">
-            <a href="/assets/misc/InfoAER-2023-2024-Laboratori-slide.zip" target="_blank" rel="noopener noreferrer">slide</a>
+            <a href="/assets/misc/InfoAER-2023-2024-Laboratori-slide.zip" target="_blank" rel="noopener noreferrer">slides</a> 
             <a href="/assets/misc/InfoAER-2023-2024-Laboratori-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
           </div>
         </div>
