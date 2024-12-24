@@ -38,7 +38,9 @@
   title = {Efficient {Memory} {Management} for {Modelica} {Simulations}},
   doi = {10.4230/OASIcs.PARMA-DITAM.2022.7},
   abstract = {The ever increasing usage of simulations in order to produce digital twins of physical systems led to the creation of specialized equation-based modeling languages such as Modelica. However, compilers of such languages often generate code that exploits the garbage collection memory management paradigm, which introduces significant runtime overhead. In this paper we explain how to improve the memory management approach of the automatically generated simulation code. This is achieved by addressing two different aspects. One regards the reduction of the heap memory usage, which is obtained by modifying functions whose resulting arrays could instead be allocated on the stack by the caller. The other aspect regards the possibility of avoiding garbage collection altogether by performing all memory lifetime tracking statically. We implement our approach in a prototype Modelica compiler, achieving an improvement of the memory management overhead of over 10 times compared to a garbage collected solution, and an improvement of 56 times compared to the production-grade compiler OpenModelica.},
+  publisher = {Schloss Dagstuhl-Leibniz-Zentrum f{\"u}r Informatik},
   author = {Scuttari, Michele and Camillucci, Nicola and Cattaneo, Daniele and Terraneo, Federico and Agosta, Giovanni},
+  booktitle={13th Workshop on Parallel Programming and Run-Time Management Techniques for Many-Core Architectures and 11th Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms (PARMA-DITAM 2022)},
   month = jun,
   year = {2022},
   keywords = {memory, Modelica, MARCO}
