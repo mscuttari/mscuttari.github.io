@@ -14,14 +14,14 @@ nav_order: 6
     <div class="row">
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Informatica (per aerospaziali)</h5>
+    	<h6 class="font-italic mt-2 mt-sm-0">2023 / 2024: Teaching Assistant</h6>
       </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
             083407
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2023 / 2024: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
 		<div class="row">
