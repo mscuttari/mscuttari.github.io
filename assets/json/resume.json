@@ -18,6 +18,30 @@
   "work": [
     {
       "name": "Politecnico di Milano",
+      "position": "Teaching assistant",
+      "url": "https://polimi.it/",
+      "startDate": "2023-09",
+      "endDate": "2024-08",
+      "summary": "Informatica (per aerospaziali): exercise and laboratory sessions"
+    },
+    {
+      "name": "Politecnico di Milano",
+      "position": "Teaching assistant",
+      "url": "https://polimi.it/",
+      "startDate": "2023-09",
+      "endDate": "2024-08",
+      "summary": "Formal Languages and Compilers: exercise and laboratory sessions"
+    },
+    {
+      "name": "Politecnico di Milano",
+      "position": "Teaching assistant",
+      "url": "https://polimi.it/",
+      "startDate": "2022-09",
+      "endDate": "2023-08",
+      "summary": "Informatica (per aerospaziali): exercise, laboratory, and tutoring sessions"
+    },
+    {
+      "name": "Politecnico di Milano",
       "position": "Research fellow",
       "url": "https://polimi.it/",
       "startDate": "2021-11-17",
