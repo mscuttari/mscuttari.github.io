@@ -28,7 +28,7 @@ nav_order: 6
       <li class="list-group-item">
 		<div class="row">
 			<div class="col-sm-9">
-            	Tutoring 24/01/2025
+            	Tutoring 24/01/2025 14:00 - 17:00
           	</div>
           	<div class="col-sm-3">
 		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
@@ -42,7 +42,7 @@ nav_order: 6
       <li class="list-group-item">
 		<div class="row">
 			<div class="col-sm-9">
-            	Tutoring 04/02/2025
+            	Tutoring 04/02/2025 14:00 - 17:00
           	</div>
           	<div class="col-sm-3">
 		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
