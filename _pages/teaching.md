@@ -30,12 +30,13 @@ nav_order: 6
 			<div class="col-sm-9">
             	Tutoring 24/01/2025
           	</div>
-          	<!--
           	<div class="col-sm-3">
+		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
+		<!--
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a>&ensp;
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
+		-->
           	</div>
-          	-->
         </div>
       </li>
       <li class="list-group-item">
@@ -43,12 +44,13 @@ nav_order: 6
 			<div class="col-sm-9">
             	Tutoring 04/02/2025
           	</div>
-          	<!--
           	<div class="col-sm-3">
+		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
+		<!--
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a>&ensp;
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
+		-->
           	</div>
-          	-->
         </div>
       </li>
     </ul>
