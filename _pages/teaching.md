@@ -31,7 +31,7 @@ nav_order: 6
             	Tutoring 24/01/2025 14:00 - 17:00
           	</div>
           	<div class="col-sm-3">
-		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
+		<a href="https://www.dropbox.com/scl/fi/gdprcgpixcf059k6c7qsa/2025-01-24.zip?rlkey=27mhwd3dw6cajmspet3gls18y&st=5quszbm9&dl=0" target="_blank" rel="noopener noreferrer">Materiale</a>
 		<!--
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a>&ensp;
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
@@ -45,8 +45,8 @@ nav_order: 6
             	Tutoring 04/02/2025 14:00 - 17:00
           	</div>
           	<div class="col-sm-3">
-		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
 		<!--
+		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a>&ensp;
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
 		-->
