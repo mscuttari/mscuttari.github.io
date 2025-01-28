@@ -45,9 +45,9 @@ nav_order: 6
             	Tutoring 04/02/2025 14:00 - 17:00
           	</div>
           	<div class="col-sm-3">
-		<!--
-		<a href="https://politecnicomilano.webex.com/meet/michele.scuttari" target="_blank" rel="noopener noreferrer">Streaming</a>
-            	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a>&ensp;
+		<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Y4MjcxMDEtZGI3My00NmUxLTlkMjUtOGE2NTQyMmVjNzEy%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%22c3a251ee-4945-4663-922f-e0effed7f874%22%7d" target="_blank" rel="noopener noreferrer">Streaming</a>
+            	<!--
+		<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-slide.zip" target="_blank" rel="noopener noreferrer">slides</a>&ensp;
             	<a href="/assets/misc/teaching/InfoAER-2023-2024-Esercitazioni-codice.zip" target="_blank" rel="noopener noreferrer">codice</a>
 		-->
           	</div>
