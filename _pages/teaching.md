@@ -99,7 +99,7 @@ nav_order: 6
             Tutoring 28/08/2025 15:00 - 19:00
           </div>
           <div class="col-sm-3">
-            <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWQ0ODg2MGQtNDIzZi00MjM5LWI1MGUtZGI0YTA4NDdjNzlh%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%22c3a251ee-4945-4663-922f-e0effed7f874%22%7d" target="_blank" rel="noopener noreferrer">Streaming</a>
+            <a href="https://www.dropbox.com/scl/fi/d76ovta5xewixaw8h3xnp/2025-08-28.zip?rlkey=r973wtcvaw61402x8r32zpqfj&st=e9xr5lw8&dl=0" target="_blank" rel="noopener noreferrer">Materiale</a>
           </div>
         </div>
       </li>
@@ -109,7 +109,7 @@ nav_order: 6
             Tutoring 29/08/2025 15:00 - 18:00
           </div>
           <div class="col-sm-3">
-            <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQ1YjI3ODYtZTZjMy00NjE3LWI1ODQtZTc1NGZlZjQ1MmE3%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%22c3a251ee-4945-4663-922f-e0effed7f874%22%7d" target="_blank" rel="noopener noreferrer">Streaming</a>
+            <a href="https://www.dropbox.com/scl/fi/i736h9iysbbr7lxni5z5w/2025-08-29.zip?rlkey=3g6f51huc9w7kxoej88q4ii85&st=3tzndnbm&dl=0" target="_blank" rel="noopener noreferrer">Materiale</a>
           </div>
         </div>
       </li>
